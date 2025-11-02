@@ -6,9 +6,21 @@ Este repositorio contiene el material del curso de Modelos No paramétricos y de
 ## Contenido
 
 - `Recursos adicionales/`: Contiene algunas librerias de R y Python que pueden ser de utilidad para diversas tareas.
+
+
 - `No Parametrica/`: Material relacionado con modelos no paramétricos.
+
+    - `Bondad de ajuste.ipynb`
+    - `Pruebas de Normalidad.ipynb`
+    - `Analisis de correlaciones.ipynb`
+
 - `Regresion/`: Material relacionado con modelos de regresión.
+
+    - `Regresion_Formulas.ipynb`
+
+    
 - `Visualizacion/`: Material sobre visualización de datos.
+    - `Graficas y Visualizacion.ipynb`
 
 
 
