@@ -17,10 +17,13 @@ Este repositorio contiene el material del curso de Modelos No paramétricos y de
 - `Regresion/`: Material relacionado con modelos de regresión.
 
     - `Regresion_Formulas.ipynb`
-
+    - `RLM.ipynb`
+    - `Prediccion.ipynb`
+    - `Verificacion_Supuestos.ipynb`
     
 - `Visualizacion/`: Material sobre visualización de datos.
     - `Graficas y Visualizacion.ipynb`
+    - `EDA.ipynb`
 
 
 
