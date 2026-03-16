@@ -8,7 +8,8 @@ Este repositorio contiene el material del curso de Modelos No paramétricos y de
 - `Recursos adicionales/`: Contiene algunas librerias de R y Python que pueden ser de utilidad para diversas tareas.
 
 
-- `Inferencia Parametrica`: Implementaciones de estimación, intervalos de confianza y pruebas de hipótesis sobre los parámetros de una ditribución.
+- `Inferencia Parametrica/`: Implementaciones de estimación, intervalos de confianza y pruebas de hipótesis sobre los parámetros de una ditribución aplicadas a situaciones reales.
+    - [`Concesionaria_MotorNation.ipynb`](Inferencia%20Parametrica/Concesionaria_MotorNation.ipynb)
 
 
 - `No Parametrica/`: Material relacionado con modelos no paramétricos.
